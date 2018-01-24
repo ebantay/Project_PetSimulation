@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 579fcc2323c87ef4a80888e0cfc8a055
+timeCreated: 1459838306
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bathroom Sprites_0
+    21300002: Bathroom Sprites_1
+    21300004: Bathroom Sprites_2
+    21300006: Bathroom Sprites_3
+    21300008: Bathroom Sprites_4
+    21300010: Bathroom Sprites_5
+    21300012: Bathroom Sprites_6
+    21300014: Bathroom Sprites_7
+    21300016: Bathroom Sprites_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bathroom Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 201
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bathroom Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 501
+        width: 173
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bathroom Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 522
+        width: 153
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bathroom Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 522
+        width: 167
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bathroom Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 257
+        width: 169
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bathroom Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 277
+        width: 161
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bathroom Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 165
+        height: 168
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bathroom Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 28
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bathroom Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 143
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
